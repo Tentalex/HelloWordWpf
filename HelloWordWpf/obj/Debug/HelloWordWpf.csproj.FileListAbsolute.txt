@@ -1,0 +1,15 @@
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\bin\Debug\HelloWordWpf.exe.config
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\bin\Debug\HelloWordWpf.exe
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\bin\Debug\HelloWordWpf.pdb
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf.csprojResolveAssemblyReference.cache
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\MainWindow.g.cs
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\App.g.cs
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf_MarkupCompile.cache
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf_MarkupCompile.lref
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\MainWindow.baml
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf.g.resources
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf.Properties.Resources.resources
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf.csproj.GenerateResource.Cache
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf.csproj.CoreCompileInputs.cache
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf.exe
+C:\Users\ATenti\source\repos\HelloWordWpf\HelloWordWpf\obj\Debug\HelloWordWpf.pdb
